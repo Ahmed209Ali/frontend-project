@@ -24,7 +24,7 @@
   width: 100%;
 
   background-image: linear-gradient(to right, rgb(112, 105, 112)50%, rgb(25, 14, 24));
-  width: 100%;
+ 
   display: flex;
   height: auto;
   justify-content: space-between;
@@ -191,6 +191,7 @@
   font-weight: 300;
   font-style: italic;
   color: rgb(45, 44, 44);
+  text-shadow: #393737 0px 0px 3px ;
 
 }
 
@@ -201,7 +202,7 @@
 }
 
 .home2 .all {
-  width: 100%;
+  width: 99%;
   display: flex;
 
 }
@@ -1665,7 +1666,7 @@
 }
 
 .home2 .all {
-  width: 100%;
+  width: 95%;
   display: flex;
   flex-wrap: wrap;
 
@@ -1834,7 +1835,7 @@
 
 .home3 {
   width: 100%;
-  height: 500vh;
+  height: 475vh;
 }
 
 .home3 .stp {
@@ -1857,8 +1858,8 @@
 }
 
 .home3 .stp .stp2 {
-  width: 30%;
-  margin: 25px;
+  width: 90%;
+  margin: 20px;
 
 }
 
@@ -1867,9 +1868,9 @@
 }
 
 .home3 .stp .stp3 {
-  width: 30%;
+  width: 90%;
 
-  margin: 25px;
+  margin: 20px;
 }
 
 .home3 .stp .stp3 img {
@@ -1877,8 +1878,8 @@
 }
 
 .home3 .stp .stp4 {
-  width: 30%;
-  margin: 25px;
+  width: 90%;
+  margin: 20px;
 
 }
 
@@ -1887,8 +1888,8 @@
 }
 
 .home3 .stp .stp5 {
-  width: 30%;
-  margin: 25px;
+  width: 90%;
+  margin: 20px;
 
 }
 
@@ -1897,8 +1898,8 @@
 }
 
 .home3 .stp .stp6 {
-  width: 30%;
-  margin: 25px;
+  width: 90%;
+  margin: 20px;
 
 }
 
@@ -1908,8 +1909,8 @@
 }
 
 .home3 .stp .stp7 {
-  width: 30%;
-  margin: 25px;
+  width: 90%;
+  margin: 20px;
 
 }
 
@@ -2280,7 +2281,7 @@
 
 .home4 .all .about {
   text-align: left;
-  margin: 40px 1dvh;
+  margin: 40px 10px;
  
 }
 
@@ -2374,7 +2375,7 @@
 }
 
 .home6 {
-  height: 9vh;
+  height: 12vh;
   background-color: #393737;
   text-align: center;
   color: antiquewhite;
